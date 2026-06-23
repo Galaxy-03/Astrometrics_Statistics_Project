@@ -142,7 +142,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn scipy statsmodels
 Place `Space_Missions_Dataset.csv` in the project root (or update the filepath in the notebook).
 
 ### 4. Run notebook
-Open `20220802039_OEL_2_Project.ipynb` in Google Colab or Jupyter and run all cells sequentially.
+Open `astrometrics.ipynb` in Google Colab or Jupyter and run all cells sequentially.
 
 ---
 
@@ -167,6 +167,7 @@ space-missions-analysis/
 - Simple and multiple linear regression
 - Gaussian Naive Bayes classification
 - Independent samples T-test and one-way ANOVA
+- Applied Gaussian Naive Bayes for mission success classification; evaluated with accuracy score and full classification report across 4 numerical features
 
 ---
 
